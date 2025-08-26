@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/taskList"
+        android:title="Task List"/>
+
+    <item android:id="@+id/addInBatchMode"
+        android:title="Add in Batch Mode"/>
+
+    <item android:id="@+id/moreApps"
+        android:title="More Apps" />
+
+    <item android:id="@+id/sendFeedback"
+        android:title="Send Feedback" />
+
+    <item android:id="@+id/followUs"
+        android:title="Follow Us" />
+
+    <item android:id="@+id/invite"
+        android:title="Invite Friends" />
+
+</menu>
