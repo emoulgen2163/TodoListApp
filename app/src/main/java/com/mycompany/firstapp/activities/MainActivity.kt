@@ -180,7 +180,7 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener{
 
             R.id.followUs -> {
 
-                val url = "https://www.instagram.com/"
+                val url = "https://www.instagram.com/eu_it63"
                 val intent = Intent(Intent.ACTION_VIEW, url.toUri())
                 startActivity(intent)
 
