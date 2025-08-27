@@ -15,7 +15,7 @@ A contact management mobile application built with **Kotlin** and **Android Stud
 - MVVM + LiveData, SwitchMap  
 
 ## 📸 Screenshots
-(Add screenshots here)
+TodoListApp/app_demonstration/app_demonstration.mp4
 
 ## 🚀 How to Run
 1. Clone this repository  
