@@ -56,7 +56,11 @@ class SearchFragment : Fragment(), AddTaskListener, SearchView.OnQueryTextListen
                 p2: Int,
                 p3: Int
             ) {
-                searchTask(p0.toString())
+                p0?.let {
+                    if (isAdded){
+                        searchTask(it.toString())
+                    }
+                }
             }
 
         })
