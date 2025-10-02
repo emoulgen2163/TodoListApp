@@ -1,6 +1,6 @@
-# 📇 Contacts App
+# 🗒️ To Do List App
 
-A contact management mobile application built with **Kotlin** and **Android Studio**, designed to add, edit, and delete contacts efficiently.
+A newer to do list mobile application built with **Kotlin** and **Android Studio**, designed to add, edit, and delete tasks efficiently.
 
 ## ✨ Features
 - CRUD operations for contact management  
